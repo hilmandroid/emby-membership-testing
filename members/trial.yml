@@ -1,0 +1,5 @@
+trial:
+  - email: joko@gmail.com
+    expire_date: 2020-12-12:00:00:00+07:00
+  - email: susilo@gmail.com
+    expire_date: 2020-02-12:08:00:00+07:00

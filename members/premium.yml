@@ -1,5 +1,5 @@
 premium:
-  - name: andi
-    expire_date: 2020-09-01
-  - name: jaka
-    expire_date: 2020-02-30
+  - email: andi@gmail.com
+    expire_date: 2020-09-01T00:00:00+07:00
+  - email: jaka@yahoo.com
+    expire_date: 2020-02-30T09:20:00+07:00
